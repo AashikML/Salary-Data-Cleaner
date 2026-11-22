@@ -61,8 +61,8 @@ Country: Nepal
 
 Mission & Aspirations: Aspiring Machine Learning & AI Engineer, focused on building scalable AI systems, end-to-end data pipelines, and clean production-ready code, with a long-term goal of working at top tech companies like Google or Microsoft.
 
-GitHub: @AashikML
+GitHub: https://github.com/AashikML
 
-LinkedIn: Aashik Pandit
+LinkedIn: https://www.linkedin.com/in/aashikml
 
-X: @TheAashikML
+X: https://x.com/TheAashikML
